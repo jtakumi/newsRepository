@@ -21,19 +21,21 @@
 
 例:
 
-- `AI/2026/06/2026-06-27.md`
-- `major-news/2026/06/2026-06-27.md`
-- `vtuber/2026/06/2026-06-27.md`
-- `english-expressions/2026/06/2026-06-27-otsukaresama.md`
+- `AI/2026/06/2026-06-28.md`
+- `major-news/2026/06/2026-06-28.md`
+- `vtuber/2026/06/2026-06-28.md`
+- `english-expressions/2026/06/2026-06-28-yoroshiku-onegaishimasu.md`
 
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
-## 最新のエントリ (2026-06-27)
+全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-- [AIニュースレター](./AI/2026/06/2026-06-27.md)
-- [日本と世界の主要ニュース](./major-news/2026/06/2026-06-27.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/06/2026-06-27.md)
-- [英語表現「お疲れさまです」](./english-expressions/2026/06/2026-06-27-otsukaresama.md)
+## 最新のエントリ (2026-06-28)
+
+- [AIニュースレター](./AI/2026/06/2026-06-28.md)
+- [日本と世界の主要ニュース](./major-news/2026/06/2026-06-28.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/06/2026-06-28.md)
+- [英語表現「よろしくお願いします」](./english-expressions/2026/06/2026-06-28-yoroshiku-onegaishimasu.md)
 
 ## 方針
 
