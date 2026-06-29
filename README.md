@@ -35,7 +35,7 @@
 - [AIニュースレター](./AI/2026/06/2026-06-29.md)
 - [日本と世界の主要ニュース](./major-news/2026/06/2026-06-29.md)
 - [VTuber界隈ニュース brief](./vtuber/2026/06/2026-06-29.md)
-- [英語表現「よろしくお願いします」](./english-expressions/2026/06/2026-06-28-yoroshiku-onegaishimasu.md)
+- [英語表現「いただきます」](./english-expressions/2026/06/2026-06-29-itadakimasu.md)
 
 ## 方針
 
