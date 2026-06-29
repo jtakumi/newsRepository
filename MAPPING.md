@@ -13,6 +13,15 @@
 
 ## 日付別エントリ一覧
 
+### 2026-06-30
+
+| カテゴリ | エントリ |
+| --- | --- |
+| AI | [AIニュースレター 2026-06-30](./AI/2026/06/2026-06-30.md) |
+| 主要ニュース | [日本と世界の主要ニュース 2026-06-30](./major-news/2026/06/2026-06-30.md) |
+| VTuber | [VTuber界隈ニュース brief 2026-06-30](./vtuber/2026/06/2026-06-30.md) |
+| 英語表現 | [bimyo](./english-expressions/2026/06/2026-06-30-bimyo.md) |
+
 ### 2026-06-29
 
 | カテゴリ | エントリ |
@@ -20,7 +29,7 @@
 | AI | [AIニュースレター 2026-06-29](./AI/2026/06/2026-06-29.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-06-29](./major-news/2026/06/2026-06-29.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-06-29](./vtuber/2026/06/2026-06-29.md) |
-| 英語表現 | [「いただきます」](./english-expressions/2026/06/2026-06-29-itadakimasu.md) |
+| 英語表現 | [itadakimasu](./english-expressions/2026/06/2026-06-29-itadakimasu.md) |
 
 ### 2026-06-28
 
@@ -29,7 +38,7 @@
 | AI | [AIニュースレター 2026-06-28](./AI/2026/06/2026-06-28.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-06-28](./major-news/2026/06/2026-06-28.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-06-28](./vtuber/2026/06/2026-06-28.md) |
-| 英語表現 | [「よろしくお願いします」](./english-expressions/2026/06/2026-06-28-yoroshiku-onegaishimasu.md) |
+| 英語表現 | [yoroshiku-onegaishimasu](./english-expressions/2026/06/2026-06-28-yoroshiku-onegaishimasu.md) |
 
 ### 2026-06-27
 
@@ -38,7 +47,7 @@
 | AI | [AIニュースレター 2026-06-27](./AI/2026/06/2026-06-27.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-06-27](./major-news/2026/06/2026-06-27.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-06-27](./vtuber/2026/06/2026-06-27.md) |
-| 英語表現 | [「お疲れさまです」](./english-expressions/2026/06/2026-06-27-otsukaresama.md) |
+| 英語表現 | [otsukaresama](./english-expressions/2026/06/2026-06-27-otsukaresama.md) |
 
 ## ファイル命名規則
 
