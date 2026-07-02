@@ -13,6 +13,15 @@
 
 ## 日付別エントリ一覧
 
+### 2026-07-03
+
+| カテゴリ | エントリ |
+| --- | --- |
+| AI | [AIニュースレター 2026-07-03](./AI/2026/07/2026-07-03.md) |
+| 主要ニュース | [日本と世界の主要ニュース 2026-07-03](./major-news/2026/07/2026-07-03.md) |
+| VTuber | [VTuber界隈ニュース brief 2026-07-03](./vtuber/2026/07/2026-07-03.md) |
+| 英語表現 | [nandaka](./english-expressions/2026/07/2026-07-03-nandaka.md) |
+
 ### 2026-07-02
 
 | カテゴリ | エントリ |
@@ -69,7 +78,7 @@
 
 ## ファイル命名規則
 
-- 通常エントリ: `<category>/YYYY/MM/YYYY-MM-DD.md`
-- 英語表現: `english-expressions/YYYY/MM/YYYY-MM-DD-<topic-slug>.md`
+- 通常エントリ: category/YYYY/MM/YYYY-MM-DD.md
+- 英語表現: english-expressions/YYYY/MM/YYYY-MM-DD-topic-slug.md
 
 新しいエントリを追加した際は、このファイルにも一行追加してください。
