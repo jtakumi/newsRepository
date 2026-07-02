@@ -15,27 +15,25 @@
 
 各カテゴリは `YYYY/MM/` の年月フォルダで整理しています。
 
-```
-<category>/YYYY/MM/YYYY-MM-DD.md
-```
+`<category>/YYYY/MM/YYYY-MM-DD.md`
 
 例:
 
-- `AI/2026/07/2026-07-02.md`
-- `major-news/2026/07/2026-07-02.md`
-- `vtuber/2026/07/2026-07-02.md`
-- `english-expressions/2026/07/2026-07-02-tasukarimasu.md`
+- `AI/2026/07/2026-07-03.md`
+- `major-news/2026/07/2026-07-03.md`
+- `vtuber/2026/07/2026-07-03.md`
+- `english-expressions/2026/07/2026-07-03-nandaka.md`
 
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-## 最新のエントリ (2026-07-02)
+## 最新のエントリ (2026-07-03)
 
-- [AIニュースレター](./AI/2026/07/2026-07-02.md)
-- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-02.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-02.md)
-- [英語表現「助かります」](./english-expressions/2026/07/2026-07-02-tasukarimasu.md)
+- [AIニュースレター](./AI/2026/07/2026-07-03.md)
+- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-03.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-03.md)
+- [英語表現「なんだか / なんとなく」](./english-expressions/2026/07/2026-07-03-nandaka.md)
 
 ## 方針
 
