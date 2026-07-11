@@ -19,21 +19,21 @@
 
 例:
 
-- `AI/2026/07/2026-07-11.md`
-- `major-news/2026/07/2026-07-11.md`
-- `vtuber/2026/07/2026-07-11.md`
-- `english-expressions/2026/07/2026-07-11-hanashi-ga-hayai.md`
+- `AI/2026/07/2026-07-12.md`
+- `major-news/2026/07/2026-07-12.md`
+- `vtuber/2026/07/2026-07-12.md`
+- `english-expressions/2026/07/2026-07-12-sashitsukae-nakereba.md`
 
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-## 最新のエントリ (2026-07-11)
+## 最新のエントリ (2026-07-12)
 
-- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-11.md)
-- [AIニュースレター](./AI/2026/07/2026-07-11.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-11.md)
-- [英語表現: 話が早い](./english-expressions/2026/07/2026-07-11-hanashi-ga-hayai.md)
+- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-12.md)
+- [AIニュースレター](./AI/2026/07/2026-07-12.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-12.md)
+- [英語表現: 差し支えなければ](./english-expressions/2026/07/2026-07-12-sashitsukae-nakereba.md)
 
 ## 方針
 
