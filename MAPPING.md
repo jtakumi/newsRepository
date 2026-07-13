@@ -7,6 +7,7 @@
 | カテゴリ | パス |
 | --- | --- |
 | AI | [`AI/`](./AI) |
+| AIツール | [`news/ai-tools/`](./news/ai-tools) |
 | 主要ニュース | [`major-news/`](./major-news) |
 | VTuber | [`vtuber/`](./vtuber) |
 | 英語表現 | [`english-expressions/`](./english-expressions) |
@@ -18,6 +19,7 @@
 | カテゴリ | エントリ |
 | --- | --- |
 | AI | [AIニュースレター 2026-07-13](./AI/2026/07/2026-07-13.md) |
+| AIツール | [AI Tools News 2026-07-13](./news/ai-tools/2026/07/2026-07-13-ai-tools.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-07-13](./major-news/2026/07/2026-07-13.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-07-13](./vtuber/2026/07/2026-07-13.md) |
 | 英語表現 | [zakkuri-iu-to](./english-expressions/2026/07/2026-07-13-zakkuri-iu-to.md) |
@@ -27,6 +29,7 @@
 | カテゴリ | エントリ |
 | --- | --- |
 | AI | [AIニュースレター 2026-07-12](./AI/2026/07/2026-07-12.md) |
+| AIツール | [AI Tools News 2026-07-12](./news/ai-tools/2026/07/2026-07-12-ai-tools.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-07-12](./major-news/2026/07/2026-07-12.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-07-12](./vtuber/2026/07/2026-07-12.md) |
 | 英語表現 | [sashitsukae-nakereba](./english-expressions/2026/07/2026-07-12-sashitsukae-nakereba.md) |
@@ -36,6 +39,7 @@
 | カテゴリ | エントリ |
 | --- | --- |
 | AI | [AIニュースレター 2026-07-11](./AI/2026/07/2026-07-11.md) |
+| AIツール | [AI Tools News 2026-07-11](./news/ai-tools/2026/07/2026-07-11-ai-tools.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-07-11](./major-news/2026/07/2026-07-11.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-07-11](./vtuber/2026/07/2026-07-11.md) |
 | 英語表現 | [hanashi-ga-hayai](./english-expressions/2026/07/2026-07-11-hanashi-ga-hayai.md) |
@@ -45,6 +49,7 @@
 | カテゴリ | エントリ |
 | --- | --- |
 | AI | [AIニュースレター 2026-07-10](./AI/2026/07/2026-07-10.md) |
+| AIツール | [AI Tools News 2026-07-10](./news/ai-tools/2026/07/2026-07-10-ai-tools.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-07-10](./major-news/2026/07/2026-07-10.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-07-10](./vtuber/2026/07/2026-07-10.md) |
 | 英語表現 | [otesu-desu-ga](./english-expressions/2026/07/2026-07-10-otesu-desu-ga.md) |
@@ -54,6 +59,7 @@
 | カテゴリ | エントリ |
 | --- | --- |
 | AI | [AIニュースレター 2026-07-09](./AI/2026/07/2026-07-09.md) |
+| AIツール | [AI Tools News 2026-07-09](./news/ai-tools/2026/07/2026-07-09-ai-tools.md) |
 | 主要ニュース | [日本と世界の主要ニュース 2026-07-09](./major-news/2026/07/2026-07-09.md) |
 | VTuber | [VTuber界隈ニュース brief 2026-07-09](./vtuber/2026/07/2026-07-09.md) |
 | 英語表現 | [nen-no-tame](./english-expressions/2026/07/2026-07-09-nen-no-tame.md) |
@@ -169,6 +175,7 @@
 ## ファイル命名規則
 
 - 通常エントリ: category/YYYY/MM/YYYY-MM-DD.md
+- AIツール: news/ai-tools/YYYY/MM/YYYY-MM-DD-ai-tools.md
 - 英語表現: english-expressions/YYYY/MM/YYYY-MM-DD-topic-slug.md
 
 新しいエントリを追加した際は、このファイルにも一行追加してください。
