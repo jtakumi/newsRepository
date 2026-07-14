@@ -18,13 +18,21 @@
 
 | カテゴリ | エントリ |
 | --- | --- |
+| AI | [AIニュースレター 2026-07-15](./AI/2026/07/2026-07-15.md) |
 | AIツール | [AI Tools News 2026-07-15](./news/ai-tools/2026/07/2026-07-15-ai-tools.md) |
+| 主要ニュース | [日本と世界の主要ニュース 2026-07-15](./major-news/2026/07/2026-07-15.md) |
+| VTuber | [VTuber界隈ニュース brief 2026-07-15](./vtuber/2026/07/2026-07-15.md) |
+| 英語表現 | [kiriwakeru](./english-expressions/2026/07/2026-07-15-kiriwakeru.md) |
 
 ### 2026-07-14
 
 | カテゴリ | エントリ |
 | --- | --- |
+| AI | [AIニュースレター 2026-07-14](./AI/2026/07/2026-07-14.md) |
 | AIツール | [AI Tools News 2026-07-14](./news/ai-tools/2026/07/2026-07-14-ai-tools.md) |
+| 主要ニュース | [日本と世界の主要ニュース 2026-07-14](./major-news/2026/07/2026-07-14.md) |
+| VTuber | [VTuber界隈ニュース brief 2026-07-14](./vtuber/2026/07/2026-07-14.md) |
+| 英語表現 | [miotoshite-imashita](./english-expressions/2026/07/2026-07-14-miotoshite-imashita.md) |
 
 ### 2026-07-13
 
