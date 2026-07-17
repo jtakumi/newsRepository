@@ -7,6 +7,7 @@
 | カテゴリ | ディレクトリ | 内容 |
 | --- | --- | --- |
 | AI | [`AI/`](./AI) | フロンティアモデル、AIインフラ、開発者向けツールなどの動向 |
+| AIツール | [`news/ai-tools/`](./news/ai-tools) | AIツール、CLI、開発支援サービスの更新や活用情報 |
 | 主要ニュース | [`major-news/`](./major-news) | 日本国内および国際の主要ニュースのブリーフィング |
 | VTuber | [`vtuber/`](./vtuber) | VTuber界隈のライブ・音楽・企業案件などのトピック |
 | 英語表現 | [`english-expressions/`](./english-expressions) | 日本語表現を自然な英語に言い換える学習メモ |
@@ -20,10 +21,12 @@
 例:
 
 - `AI/2026/07/2026-07-17.md`
+- `news/ai-tools/2026/07/2026-07-15-ai-tools.md`
 - `major-news/2026/07/2026-07-17.md`
 - `vtuber/2026/07/2026-07-17.md`
 - `english-expressions/2026/07/2026-07-17-tsumeru.md`
 
+AIツールカテゴリはファイル名末尾に `-ai-tools` を付与します。
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
@@ -32,6 +35,7 @@
 
 - [日本と世界の主要ニュース](./major-news/2026/07/2026-07-17.md)
 - [AIニュースレター](./AI/2026/07/2026-07-17.md)
+- [AI Tools News](./news/ai-tools/2026/07/2026-07-15-ai-tools.md)
 - [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-17.md)
 - [英語表現: 詰める](./english-expressions/2026/07/2026-07-17-tsumeru.md)
 
