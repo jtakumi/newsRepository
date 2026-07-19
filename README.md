@@ -20,24 +20,24 @@
 
 例:
 
-- `AI/2026/07/2026-07-19.md`
+- `AI/2026/07/2026-07-20.md`
 - `news/ai-tools/2026/07/2026-07-19-ai-tools.md`
-- `major-news/2026/07/2026-07-19.md`
-- `vtuber/2026/07/2026-07-19.md`
-- `english-expressions/2026/07/2026-07-19-reduce-rework.md`
+- `major-news/2026/07/2026-07-20.md`
+- `vtuber/2026/07/2026-07-20.md`
+- `english-expressions/2026/07/2026-07-20-touch-base.md`
 
 AIツールカテゴリはファイル名末尾に `-ai-tools` を付与します。
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-## 最新のエントリ (2026-07-19)
+## 最新のエントリ (2026-07-20)
 
-- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-19.md)
-- [AIニュースレター](./AI/2026/07/2026-07-19.md)
+- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-20.md)
+- [AIニュースレター](./AI/2026/07/2026-07-20.md)
 - [AI Tools News](./news/ai-tools/2026/07/2026-07-19-ai-tools.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-19.md)
-- [英語表現: 手戻りを減らす](./english-expressions/2026/07/2026-07-19-reduce-rework.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-20.md)
+- [英語表現: 認識を合わせる](./english-expressions/2026/07/2026-07-20-touch-base.md)
 
 ## 方針
 
