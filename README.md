@@ -20,24 +20,24 @@
 
 例:
 
-- `AI/2026/07/2026-07-21.md`
+- `AI/2026/07/2026-07-22.md`
 - `news/ai-tools/2026/07/2026-07-19-ai-tools.md`
-- `major-news/2026/07/2026-07-21.md`
-- `vtuber/2026/07/2026-07-21.md`
-- `english-expressions/2026/07/2026-07-21-medo-ga-tatsu.md`
+- `major-news/2026/07/2026-07-22.md`
+- `vtuber/2026/07/2026-07-22.md`
+- `english-expressions/2026/07/2026-07-22-maedaoshi-suru.md`
 
 AIツールカテゴリはファイル名末尾に `-ai-tools` を付与します。
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-## 最新のエントリ (2026-07-21)
+## 最新のエントリ (2026-07-22)
 
-- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-21.md)
-- [AIニュースレター](./AI/2026/07/2026-07-21.md)
+- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-22.md)
+- [AIニュースレター](./AI/2026/07/2026-07-22.md)
 - [AI Tools News](./news/ai-tools/2026/07/2026-07-19-ai-tools.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-21.md)
-- [英語表現: 目処が立つ](./english-expressions/2026/07/2026-07-21-medo-ga-tatsu.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-22.md)
+- [英語表現: 前倒しする](./english-expressions/2026/07/2026-07-22-maedaoshi-suru.md)
 
 ## 方針
 
