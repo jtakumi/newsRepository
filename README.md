@@ -20,24 +20,24 @@
 
 例:
 
-- `AI/2026/07/2026-07-22.md`
+- `AI/2026/07/2026-07-31.md`
 - `news/ai-tools/2026/07/2026-07-19-ai-tools.md`
-- `major-news/2026/07/2026-07-22.md`
-- `vtuber/2026/07/2026-07-22.md`
-- `english-expressions/2026/07/2026-07-22-maedaoshi-suru.md`
+- `major-news/2026/07/2026-07-31.md`
+- `vtuber/2026/07/2026-07-31.md`
+- `english-expressions/2026/07/2026-07-31-catch-up.md`
 
 AIツールカテゴリはファイル名末尾に `-ai-tools` を付与します。
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-## 最新のエントリ (2026-07-22)
+## 最新のエントリ (2026-07-31)
 
-- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-22.md)
-- [AIニュースレター](./AI/2026/07/2026-07-22.md)
+- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-31.md)
+- [AIニュースレター](./AI/2026/07/2026-07-31.md)
 - [AI Tools News](./news/ai-tools/2026/07/2026-07-19-ai-tools.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-22.md)
-- [英語表現: 前倒しする](./english-expressions/2026/07/2026-07-22-maedaoshi-suru.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-31.md)
+- [英語表現: 追いつく / キャッチアップする](./english-expressions/2026/07/2026-07-31-catch-up.md)
 
 ## 方針
 
