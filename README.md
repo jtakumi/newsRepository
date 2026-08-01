@@ -20,24 +20,24 @@
 
 例:
 
-- `AI/2026/07/2026-07-31.md`
-- `news/ai-tools/2026/07/2026-07-19-ai-tools.md`
-- `major-news/2026/07/2026-07-31.md`
-- `vtuber/2026/07/2026-07-31.md`
-- `english-expressions/2026/07/2026-07-31-catch-up.md`
+- `AI/2026/08/2026-08-01.md`
+- `news/ai-tools/2026/08/2026-08-01-ai-tools.md`
+- `major-news/2026/08/2026-08-01.md`
+- `vtuber/2026/08/2026-08-01.md`
+- `english-expressions/2026/08/2026-08-01-take-it-back.md`
 
 AIツールカテゴリはファイル名末尾に `-ai-tools` を付与します。
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-## 最新のエントリ (2026-07-31)
+## 最新のエントリ (2026-08-01)
 
-- [日本と世界の主要ニュース](./major-news/2026/07/2026-07-31.md)
-- [AIニュースレター](./AI/2026/07/2026-07-31.md)
-- [AI Tools News](./news/ai-tools/2026/07/2026-07-19-ai-tools.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/07/2026-07-31.md)
-- [英語表現: 追いつく / キャッチアップする](./english-expressions/2026/07/2026-07-31-catch-up.md)
+- [日本と世界の主要ニュース](./major-news/2026/08/2026-08-01.md)
+- [AIニュースレター](./AI/2026/08/2026-08-01.md)
+- [AI Tools News](./news/ai-tools/2026/08/2026-08-01-ai-tools.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/08/2026-08-01.md)
+- [英語表現: 一旦持ち帰ります](./english-expressions/2026/08/2026-08-01-take-it-back.md)
 
 ## 方針
 
