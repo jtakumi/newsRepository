@@ -20,24 +20,24 @@
 
 例:
 
-- `AI/2026/08/2026-08-02.md`
+- `AI/2026/08/2026-08-03.md`
 - `news/ai-tools/2026/08/2026-08-01-ai-tools.md`
-- `major-news/2026/08/2026-08-02.md`
-- `vtuber/2026/08/2026-08-02.md`
-- `english-expressions/2026/08/2026-08-02-looks-good.md`
+- `major-news/2026/08/2026-08-03.md`
+- `vtuber/2026/08/2026-08-03.md`
+- `english-expressions/2026/08/2026-08-03-keep-you-posted.md`
 
 AIツールカテゴリはファイル名末尾に `-ai-tools` を付与します。
 英語表現カテゴリは、1日1テーマでファイル名末尾にトピックを付与する場合があります。
 
 全エントリの一覧は [`MAPPING.md`](./MAPPING.md) を参照してください。
 
-## 最新のエントリ (2026-08-02)
+## 最新のエントリ (2026-08-03)
 
-- [日本と世界の主要ニュース](./major-news/2026/08/2026-08-02.md)
-- [AIニュースレター](./AI/2026/08/2026-08-02.md)
+- [日本と世界の主要ニュース](./major-news/2026/08/2026-08-03.md)
+- [AIニュースレター](./AI/2026/08/2026-08-03.md)
 - [AI Tools News](./news/ai-tools/2026/08/2026-08-01-ai-tools.md)
-- [VTuber界隈ニュース brief](./vtuber/2026/08/2026-08-02.md)
-- [英語表現: 問題なさそうです](./english-expressions/2026/08/2026-08-02-looks-good.md)
+- [VTuber界隈ニュース brief](./vtuber/2026/08/2026-08-03.md)
+- [英語表現: 共有までです](./english-expressions/2026/08/2026-08-03-keep-you-posted.md)
 
 ## 方針
 
